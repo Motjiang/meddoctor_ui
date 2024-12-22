@@ -52,15 +52,5 @@ nav {
     display: none;
   }
 
-  .btn {
-    padding: .4rem 1rem;
-    outline: none;
-    border: none;
-    font-size: 1rem;
-    color: var(--white);
-    background-color: var(--primary-color);
-    border-radius: 10px;
-    cursor: pointer;
-    transition: 0.3s;
-  }
+  
 }

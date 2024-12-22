@@ -138,25 +138,5 @@
       grid-area: 1/1/2/2;
     }
 
-    .image img {
-        width: 100%;
-        max-width: 250px;
-      }
-
-      .image__content {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        padding: 1rem 2rem;
-        display: flex;
-        align-items: center;
-        gap: 1rem;
-        text-align: left;
-        background-color: var(--white);
-        border-radius: 5px;
-        box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
-      }
-    
-
    
   }
